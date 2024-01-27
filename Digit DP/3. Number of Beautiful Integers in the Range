@@ -10,7 +10,7 @@
 
 /* Approach : Digit DP
 Time : O(10 * 2 * 6 * 6 * 20 * 2 * 10) // dp states * time for each dp state
-Space : O(10 * 2 * 6 * 6 * 20) // dp vector
+Space : O(10 * 2 * 6 * 6 * 20 * 2) // dp vector
 */
 
 class Solution {
